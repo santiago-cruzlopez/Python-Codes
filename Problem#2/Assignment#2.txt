@@ -3,7 +3,7 @@ Assignment#2
 Name: Santiago Cruz Lopez
 Student ID: 200540981
 
-Replit: main.py - Assignment 2 - Replit
+Replit: https://replit.com/@200540981/Assignment-2?v=1#main.py
 
 Write a program that allows the user to navigate the lines of text in a file. The program
 should prompt the user for a filename and input the lines of text into a list. The program
