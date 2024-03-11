@@ -1,0 +1,17 @@
+Assignment#4
+
+Name: Santiago Cruz Lopez
+Student ID: 200540981
+
+Replit: https://replit.com/@200540981/Assignment-4#main.py
+
+Python’s pow function returns the result of raising a number to a given power. Define a
+function expo that performs this task and state its computational complexity using big-O
+notation. The first argument of this function is the number, and the second argument is
+the exponent (nonnegative numbers only). You may use either a loop or a recursive
+function in your implementation.
+
+Caution: do not use Python’s ** operator or pow function in this exercise, automatic 0.
+
+1. Expo function (5%).
+2. Big-O Analysis (5%).
