@@ -1,0 +1,28 @@
+Assignment#2
+
+Name: Santiago Cruz Lopez
+Student ID: 200540981
+
+Replit: main.py - Assignment 2 - Replit
+
+Write a program that allows the user to navigate the lines of text in a file. The program
+should prompt the user for a filename and input the lines of text into a list. The program
+then enters a loop in which it prints the number of lines in the file and prompts the user
+for a line number. Actual line numbers range from 1 to the number of lines in the file. If
+the input is the word “exit”, the program quits (think of this as a termination condition,
+where have we seen that term before?). Otherwise, the program prints the line
+associated with that number, and then asks for another line number.
+
+The program should handle invalid inputs by outputting an error. There are two error
+conditions, one error message should be output if the input is not an integer or the word
+exit, another error message should be output if the input number is not in the expected
+range of line numbers. 
+
+You can check if a string variable x is a valid integer using the 
+function x.isdigit() which returns true if x is a valid integer.
+
+1. Load file into program (1%)
+2. Process file into list of lines and prompt user for input (2%)
+3. Output corresponding line (2%)
+4. Error cases (3%)
+5. Exit case (2%)
