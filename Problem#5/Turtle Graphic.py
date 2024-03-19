@@ -4,11 +4,7 @@ Turtle Graphic
 This script uses the turtle module to draw a spiral star pattern on the screen. The turtle moves forward a certain number of pixels, 
 then turns right 144 degrees, repeating this process to form the spiral star pattern. The screen closes when the user clicks on it.
 
-This script requires that `turtle` be installed within the Python environment you are running this script in.
-
-This file can also be imported as a module and contains the following functions:
-
-    * draw_spiral_star - draws a spiral star pattern on the screen
+This script requires that `turtle` be installed.
 """
 
 from turtle import Screen, Turtle
